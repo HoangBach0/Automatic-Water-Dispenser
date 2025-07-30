@@ -1,0 +1,15 @@
+{
+  "name": "HC-06",
+  "author": "Person #6424",
+  "pins": [
+    "RXD",
+    "TXD",
+    "GND",
+    "VCC",
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "controls": []
+}
