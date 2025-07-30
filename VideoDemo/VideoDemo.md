@@ -12,7 +12,11 @@ This video demonstrates the operation of the IoT102 automatic water dispensing s
 
 ## Video Link
 
-Watch the demo video here: [IoT Demo Video](https://drive.google.com/file/d/1NAbbCzqaZe0NjJMJvpQn8y3G3gXC1J1j/view)
+Demo video: [IoT Demo Video](https://drive.google.com/file/d/1NAbbCzqaZe0NjJMJvpQn8y3G3gXC1J1j/view)
+
+## Simulation
+
+View simulation: [simulation](https://wokwi.com/projects/437642166247380993)
 
 ## Notes
 
