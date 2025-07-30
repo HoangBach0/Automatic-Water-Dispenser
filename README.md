@@ -74,3 +74,14 @@ Sketch > Include Library > Manage Libraries > Search and install "LiquidCrystal"
 - Ensure ultrasonic sensors are correctly positioned for accurate measurements.
 - Verify Bluetooth connection before using remote control commands.
 - If the system reports an error or stops, check the cup/water level distance and ensure the cup is properly placed.
+
+## References
+- Detailed documentation: [Google Docs](https://docs.google.com/document/d/1yuAZ-1QF3fxi8i7Ysq0dc15ScVh57hwB1XN5SEfKuJ4/edit?tab=t.0).
+- NewPing Library: [NewPing Documentation](https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home).
+- LiquidCrystal Library: [Arduino LiquidCrystal](https://www.arduino.cc/en/Reference/LiquidCrystal).
+
+## Contribution
+If you wish to contribute or improve the source code, please submit a pull request or contact via email: [your-email@example.com].
+
+## License
+The project is released under the MIT License. See details in the `LICENSE` file (if available).
