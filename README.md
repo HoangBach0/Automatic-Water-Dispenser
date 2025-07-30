@@ -36,7 +36,7 @@ Sketch > Include Library > Manage Libraries > Search and install "LiquidCrystal"
    - Connect Bluetooth module to Arduino's TX/RX pins.
 
 2. **Download Source Code**:
-   - Obtain the source code from the Google Docs document: [Link to document](https://docs.google.com/document/d/1yuAZ-1QF3fxi8i7Ysq0dc15ScVh57hwB1XN5SEfKuJ4/edit?tab=t.0).
+   - Obtain the source code from the Google Docs document: [Link to document](https://docs.google.com/document/d/1yuAZ-1QF3fxi8i7Ysq0dc15ScVh57hwB1XN5SEfKuJ4/edit?usp=sharing).
    - Open the `.ino` file in Arduino IDE.
 
 3. **Upload Program**:
